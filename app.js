@@ -42,7 +42,7 @@ function paletteBlock(paletteColor) {
 
         if (checkWin()) {
             setTimeout(() => {
-                alert("WIN! Let's next");
+                alert("Отлично! Давай следующий");
                 window.location.reload();
             }, 300);
             

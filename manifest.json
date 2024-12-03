@@ -1,7 +1,7 @@
 {
   "name": "Palette",
   "description": "Simple Sort Game",
-  "start_url": "/",
+  "start_url": "/palette/",
   "lang": "ru-RU",
   "display": "standalone",
   "icons": [
